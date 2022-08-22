@@ -1,0 +1,10 @@
+div{
+    width: 100%;
+    background-color: black;
+    border-bottom: solid 2px orange;
+}
+app-redes{
+    margin-top: 30%;
+    float: right;
+}
+  

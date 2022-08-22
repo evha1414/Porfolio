@@ -1,0 +1,44 @@
+.row{
+    padding: 20px;
+}
+div{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+/*estilo de la foto*/
+
+@media(min-width: 576px){
+    #foto{
+    position: absolute;
+    width: 15%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px orange;
+    left: 3%;
+    top: 300px;
+    }
+}
+@media(min-width: 576px){
+    #foto{
+    position: absolute;
+    width: 30%;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px orange;
+    left: 3%;
+    top: 330px;
+    }
+}
+
+/*etiqueta nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
