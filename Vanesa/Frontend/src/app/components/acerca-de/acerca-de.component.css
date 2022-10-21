@@ -7,34 +7,32 @@ div{
     text-align: center;
     color: white;
 }
-
 /*estilo de la foto*/
 
 @media(min-width: 576px){
     #foto{
     position: absolute;
-    width: 15%;
+    width: 17%;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px orange;
+    box-shadow: 2px 2px 2px orange;
     left: 3%;
-    top: 300px;
+    top: 100px;
     }
 }
 @media(min-width: 576px){
     #foto{
     position: absolute;
-    width: 30%;
+    width: 22%;
     border-radius: 100%;
-    box-shadow: 3px 3px 3px orange;
+    box-shadow: 2px 2px 2px orange;
     left: 3%;
-    top: 330px;
+    top: 100px;
     }
 }
 
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 100%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;

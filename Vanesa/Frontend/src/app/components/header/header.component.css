@@ -2,9 +2,9 @@ div{
     width: 100%;
     background-color: black;
     border-bottom: solid 2px orange;
-}
+    position: fixed;
+  }
 app-redes{
     margin-top: 30%;
     float: right;
 }
-  
